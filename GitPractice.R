@@ -15,3 +15,4 @@ hist(mtcars$mpg)
 
 #create a new plot
 plot(mtcars$mpg ~ mtcars$wt)
+plot(mtcars$mpg ~ mtcars$wt)
